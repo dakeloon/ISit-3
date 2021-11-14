@@ -55,5 +55,5 @@ int main() {
     else {
       y = pow(1.5 * pow(10, -6) / d + 1 / R, 0.3);
     }
-    cout << "R=" << R << "\ty=" << y << endl;
+    cout << "R=" << R << y << endl;
 } 
